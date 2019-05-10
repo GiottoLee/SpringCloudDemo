@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo-dependencies/spring-cloud-demo-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-demo-dependencies/spring-cloud-demo-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo-eureka/spring-cloud-demo-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-demo-eureka/spring-cloud-demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo-service-admin/spring-cloud-demo-service-admin.iml" filepath="$PROJECT_DIR$/spring-cloud-demo-service-admin/spring-cloud-demo-service-admin.iml" />
+    </modules>
+  </component>
+</project>
